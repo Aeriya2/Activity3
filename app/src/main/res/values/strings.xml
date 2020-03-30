@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Activity_3</string>
+    <string name="login">LOGIN USER</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="judul">Form Pendaftaraan</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="daftar">Daftar</string>
+    <string name="nohp">No HP</string>
+    <string name="sign">SIGN IN</string>
+    <string name="hasil">Tampilan Hasil</string>
+    <string name="txtusrname">Masukkan Username</string>
+    <string name="txtpass">Masukkan Password</string>
+    <string name="txtnama">Masukkan Nama</string>
+    <string name="txtalamat">Masukkan Alamat</string>
+    <string name="txthp">Masukkan Nomor Handphone</string>
+    <string name="txttampilan2">Tampilan Hasil Menu 2</string>
+    <string name="txttampilan3">Tampilan Hasil Menu 3</string>
+
+
+</resources>
